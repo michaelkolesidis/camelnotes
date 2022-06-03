@@ -9,3 +9,38 @@
   [![Netlify Status](https://api.netlify.com/api/v1/badges/8e6c92b8-37ea-43eb-9c3d-2b128b68052c/deploy-status)](https://app.netlify.com/sites/camelnotes/deploys)
 
 </div>
+
+
+
+## Technologies Used
+
+<a href="https://reactjs.org/"><img src="https://github.com/michaelkolesidis/tech-icons/blob/main/icons/react/react-original.svg" height="50px" /></a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://en.wikipedia.org/wiki/JavaScript"><img src="https://github.com/michaelkolesidis/tech-icons/blob/main/icons/javascript/javascript-original.svg" height="50px" /></a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://webpack.js.org/"><img src="https://github.com/michaelkolesidis/tech-icons/blob/main/icons/webpack/webpack-original.svg" height="50px" /></a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.npmjs.com/"><img src="https://github.com/michaelkolesidis/tech-icons/blob/main/icons/npm/npm-original-wordmark.svg" height="50px" /></a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://en.wikipedia.org/wiki/CSS"><img src="https://github.com/michaelkolesidis/tech-icons/blob/main/icons/css3/css3-plain.svg" height="50px" /></a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/michaelkolesidis/tech-icons/blob/main/icons/html5/html5-plain.svg" height="50px" />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+
+
+## Description
+
+<p></p>
+
+
+
+## Demo
+
+<img src="">
+
+
+
+## Screenshots
+
+<img src="">
