@@ -35,23 +35,9 @@
 
 
 
-## Dependencies
-
-
-
-## How to Install
-
-
-
 ## Future Plans
 - Add backend to save notes to server
 - User accounts
-
-
-
-## Demo
-
-<img src="">
 
 
 
