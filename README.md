@@ -37,7 +37,7 @@
 
 ## Demo
 
-<img src="./src/assets/screenshots/camel-notes.gif" height="200px">
+<img src="./screenshots/camel-notes.gif" height="200px">
 
 
 
