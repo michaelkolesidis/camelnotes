@@ -35,6 +35,12 @@
 
 
 
+## Demo
+
+<img src="./src/assets/screenshots/camel-notes.gif" height="200px">
+
+
+
 ## Future Plans
 - Add backend to save notes to server
 - User accounts
