@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./src/assets/camelnotes.svg" height="200px">
+  <img src="./src/assets/camelnotes.svg" height="100px">
   <h1>Camel Notes</h1>
   
   <h3>A simple note-taking web application in React</h3>
@@ -33,17 +33,19 @@
 
 <p>Camel Notes is a simple note-taking web application in React, that I had the chance to work with and to enhance its functionality while learning React through Scrimba</p>
 
-
-
-## Demo
-
-<img src="./screenshots/camel-notes.gif" />
+<p>Note: The project only compiles in development mode. When attempting to compile in production mode, as error caused by one of the dependencies is caused. (Check Issue https://github.com/michaelkolesidis/camelnotes/issues/1 for more info)</p>
 
 
 
 ## Future Plans
 - Add backend to save notes to server
 - User accounts
+
+
+
+## Demo
+
+<img src="./screenshots/camel-notes.gif" />
 
 
 
