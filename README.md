@@ -33,7 +33,7 @@
 
 <p>Camel Notes is a simple note-taking web application in React, that I had the chance to work with and to enhance its functionality while learning React through Scrimba</p>
 
-<p>Note: The project only compiles in development mode. When attempting to compile in production mode, as error caused by one of the dependencies is caused. (Check Issue https://github.com/michaelkolesidis/camelnotes/issues/1 for more info)</p>
+<p>Note: The project only compiles in development mode. When attempting to compile in production mode, as error is caused by one of the dependencies. (Check Issue https://github.com/michaelkolesidis/camelnotes/issues/1 for more info)</p>
 
 
 
